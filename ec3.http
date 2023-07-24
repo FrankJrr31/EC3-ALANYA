@@ -1,5 +1,5 @@
 
-@server = https://frankjrr31-solid-train-pxqqq7w9wq9f65q7-8080.preview.app.github.dev
+@server = https://ec3-nywd.onrender.com
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
